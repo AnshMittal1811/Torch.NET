@@ -20,27 +20,28 @@ The checked categories have been wrapped.
 - [x] Tensor Attributes
 - [x] Type Info
 - [ ] torch.sparse
-- [ ] torch.cuda
+- [ ] torch.cuda (to do)
 - [ ] torch.Storage
 - [x] torch.nn
 - [ ] torch.nn.functional
-- [ ] torch.nn.init
-- [ ] torch.optim
+- [ ] torch.nn.init (to do)
+- [ ] torch.optim (to do)
 - [ ] torch.autograd
-- [ ] torch.distributed
+- [ ] torch.distributed (to do)
 - [ ] torch.distributions
 - [ ] torch.hub
 - [ ] torch.jit
-- [ ] torch.multiprocessing
+- [ ] torch.multiprocessing (to do)
+
 - [ ] torch.utils.bottleneck
-- [ ] torch.utils.checkpoint
+- [ ] torch.utils.checkpoint (to do)
 - [ ] torch.utils.cpp_extension
 - [ ] torch.utils.data
 - [ ] torch.utils.dlpack
 - [ ] torch.utils.model_zoo
 - [ ] torch.utils.tensorboard (experimental)
 - [ ] torch.onnx
-- [ ] torch.__config__
+- [ ] torch.__config__ (to do)
 
 ## Release
 
