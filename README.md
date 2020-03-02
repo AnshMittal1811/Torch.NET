@@ -20,7 +20,7 @@ The checked categories have been wrapped.
 - [x] Tensor Attributes
 - [x] Type Info
 - [ ] torch.sparse
-- [ ] torch.cuda (to do)
+- [o] torch.cuda (to do)
 - [ ] torch.Storage
 - [x] torch.nn
 - [ ] torch.nn.functional
